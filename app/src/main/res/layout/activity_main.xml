@@ -30,7 +30,7 @@
             android:layout_height="300dp"
             android:src="@drawable/film"
             android:layout_gravity="center"
-            android:layout_marginTop="-99dp" />
+            android:layout_marginTop="-100dp" />
 
 
         <TextView
